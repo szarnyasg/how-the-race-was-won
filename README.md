@@ -168,8 +168,8 @@ No episodes.
 113. [Tour de France, Stages 1-9](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-1-9/): [[Eurosport](https://video.eurosport.com/cycling/how-the-race-was-won-thrills-and-spills-on-stages-1-_vid990123/video.shtml)]
 114. [Tour de France, Stages 10-15](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-10-15/): [[Eurosport](https://video.eurosport.com/cycling/tour-de-france/2017/how-the-race-was-won-stages-10-15_vid991520/video.shtml)]
 115. [Tour de France, Stages 16-21](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-16-21/): [[Eurosport](https://video.eurosport.com/cycling/chris-froome-s-tour-how-the-race-was-won_vid993125/video.shtml)]
-116. [UCI World Championships - Women’s Road Race](https://vimeo.com/235204009)
-117. [UCI World Championships - Men’s Road Race](https://vimeo.com/235293114)
+116. [UCI World Championships - Women’s Road Race](http://cyclocosm.com/2017/09/how-the-race-was-won-uci-world-championships-womens-road-race-2017/): [[Vimeo](https://vimeo.com/235204009)]
+117. [UCI World Championships - Men’s Road Race](http://cyclocosm.com/2017/09/how-the-race-was-won-uci-world-championships-mens-road-race-2017/): [[Vimeo](https://vimeo.com/235293114)]
 
 ## 2018
 
