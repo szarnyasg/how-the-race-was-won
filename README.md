@@ -4,13 +4,13 @@ Links to Cosmo Catalano's "How The Race Was Won" video series.
 
 ## Playlists
 
+* [Eurosport HTRWW playlist](https://video.eurosport.com/cycling/video-channel/how-the-race-was-won/)
 * [Vimeo videos](https://vimeo.com/cyclocosm)
 * [YouTube HTRWW playlist](https://www.youtube.com/playlist?list=PLryl7KYZ5kA5jj98uW-PfJ-luChsADt6D)
-* [Eurosport HTRWW playlist](https://video.eurosport.com/cycling/video-channel/how-the-race-was-won/)
+* [YouTube "Special Features" playlist](https://www.youtube.com/playlist?list=PLryl7KYZ5kA6pOqLmKy4Gb3baD3tjRgG_)
+* [YouTube "The Week in Bike" playlist](https://www.youtube.com/playlist?list=PLryl7KYZ5kA4oX-M4KHW0VqtaztJNjXOG) _(all 64 videos available)_
 
 ## Special features
-
-[YouTube playlist](https://www.youtube.com/playlist?list=PLryl7KYZ5kA6pOqLmKy4Gb3baD3tjRgG_)
 
 * 2009/04/25 [Bottle Hand-off Technique](http://cyclocosm.com/2009/04/bottle-handoff-technique/): [[Vimeo](https://vimeo.com/4327652)]
 * 2009/05/07 [Evans' and Gilbert's Epic Romandie Descent](http://cyclocosm.com/2009/05/evans-and-gilberts-epic-romandie-descent/): [[YouTube](https://www.youtube.com/watch?v=yISN7pgfCtY)]
