@@ -36,7 +36,7 @@ Links to Cosmo Catalano's "How The Race Was Won" video series.
 4. [Gent-Wevelgem](http://cyclocosm.com/2009/04/how-the-race-was-won-gent-wevelgem-2009/): [[Vimeo](https://vimeo.com/4087763)] [[YouTube](https://www.youtube.com/watch?v=h7Wu-HkmltQ)]
 5. [Paris-Roubaix](http://cyclocosm.com/2009/04/how-the-race-was-won-paris-roubaix-2009/): [[Vimeo](https://vimeo.com/4127808)] [[YouTube](https://www.youtube.com/watch?v=C71WSDme1e8)]
 6. [Amstel Gold](http://cyclocosm.com/2009/04/how-the-race-was-won-amstel-gold-2009/): [[Vimeo](https://vimeo.com/4254094)] [[YouTube](https://www.youtube.com/watch?v=IBA19B74zd8)]
-7. [Flèche Wallonne](http://cyclocosm.com/2009/04/how-the-race-was-won-fleche-wallone-2009/): [[Vimeo](https://vimeo.com/4351214)] [[YouTube](https://www.youtube.com/watch?v=IBA19B74zd8)]
+7. [Flèche Wallonne](http://cyclocosm.com/2009/04/how-the-race-was-won-fleche-wallone-2009/): [[Vimeo](https://vimeo.com/4351214)] [[YouTube](https://www.youtube.com/watch?v=AebO-Rt1OZs)]
 8. [Liège-Bastogne-Liège](http://cyclocosm.com/2009/04/how-the-race-was-won-2009-liege-bastogne-liege/): [[Vimeo](https://vimeo.com/4351214)] [[YouTube](https://www.youtube.com/watch?v=_AIpwcScU3c)], see also the [followup](http://cyclocosm.com/2011/12/how-the-race-was-bought/)
 9. [Tour of Romandie](http://cyclocosm.com/2009/05/how-the-race-was-won-tour-of-romandie-2009/): [[Vimeo](https://vimeo.com/4467569)] [[YouTube](https://www.youtube.com/watch?v=rJdOnxGFf7k)]
 10. [Giro d'Italia, Stages 1-2](http://cyclocosm.com/2009/05/how-the-race-was-won-giro-ditalia-2009-part-1/): [[Vimeo](https://vimeo.com/4586940)] [[YouTube](https://www.youtube.com/watch?v=4OhgTvA9SfI)]
