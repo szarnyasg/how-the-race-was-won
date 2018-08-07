@@ -42,7 +42,7 @@ Links to Cosmo Catalano's "How The Race Was Won" video series.
 10. [Giro d'Italia, Stages 1-2](http://cyclocosm.com/2009/05/how-the-race-was-won-giro-ditalia-2009-part-1/): [[Vimeo](https://vimeo.com/4586940)] [[YouTube](https://www.youtube.com/watch?v=4OhgTvA9SfI)]
 11. [Giro d'Italia, Stages 3-6](http://cyclocosm.com/2009/05/how-the-race-was-won-2009-giro-ditalia-stages-3-6/): [[Vimeo](https://vimeo.com/4835031)] [[YouTube](https://www.youtube.com/watch?v=xd77CRYTF3o)]
 12. [Tour de France, Stage 2](http://cyclocosm.com/2009/07/2009-tour-de-france-stage-2-htrww/): [[Vimeo](https://vimeo.com/5472019)] [[YouTube](https://www.youtube.com/watch?v=Nq7oEE7PdUk)]
-13. [Tour de France, Stage 15](http://cyclocosm.com/2009/07/how-the-race-was-won-stage-15-2009-tour-de-france/): [[Vimeo](https://vimeo.com/5669012)] [[YouTube](https://www.youtube.com/watch?v=Nq7oEE7PdUk)]
+13. [Tour de France, Stage 15](http://cyclocosm.com/2009/07/how-the-race-was-won-stage-15-2009-tour-de-france/): [[Vimeo](https://vimeo.com/5669012)] [[YouTube](https://www.youtube.com/watch?v=rYyclDRCl9o)]
 14. [Vuelta a España, Stage 13](http://cyclocosm.com/2009/09/2009-vuelta-a-espana-stage-13-how-the-race-was-won/): [[Vimeo](https://vimeo.com/6560184)] [[YouTube](https://www.youtube.com/watch?v=Dl1l5zmp6B8)]
 15. [Paris-Tours](http://cyclocosm.com/2009/10/how-the-race-was-won-paris-tours-2009/): [[Vimeo](https://vimeo.com/7037594)] [[YouTube](https://www.youtube.com/watch?v=JdpbroglYTw)]
 
