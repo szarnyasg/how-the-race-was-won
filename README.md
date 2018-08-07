@@ -66,7 +66,7 @@ No episodes.
 24. [Paris-Roubaix](http://cyclocosm.com/2012/04/2012-paris-roubaix-how-the-race-was-won/): [[Vimeo](https://vimeo.com/40000204)] [[YouTube](https://www.youtube.com/watch?v=sbVbDonDb9k)] 
 25. [Amstel Gold](http://cyclocosm.com/2012/04/amstel-gold-2012-how-the-race-was-won/): [[Vimeo](https://vimeo.com/40436208)] [[YouTube](https://www.youtube.com/watch?v=OEBhZs51bBY)] 
 26. [Liège-Bastogne-Liège](http://cyclocosm.com/2012/04/liege-bastogne-liege-2012-how-the-race-was-won/): [[Vimeo](https://vimeo.com/40848949)] [[YouTube](https://www.youtube.com/watch?v=qF4uHL0Uy5Q)] 
-27. [Giro d'Italia](http://cyclocosm.com/2012/05/giro-ditalia-2012-stages-1-3-how-the-race-was-won/): [[Vimeo](https://vimeo.com/41769011)] [[YouTube](https://www.youtube.com/watch?v=ORUte7kQYpg)] 
+27. [Giro d'Italia, Stages 1-3](http://cyclocosm.com/2012/05/giro-ditalia-2012-stages-1-3-how-the-race-was-won/): [[Vimeo](https://vimeo.com/41769011)] [[YouTube](https://www.youtube.com/watch?v=ORUte7kQYpg)] 
 
 ## 2013
 
@@ -135,7 +135,7 @@ No episodes.
 84. [Men's Cyclocross Championships](http://cyclocosm.com/2015/02/how-the-race-was-won-mens-cyclocross-world-championships-2015/): [[Vimeo](https://vimeo.com/122676672)] [[CyclingTips (broken)](https://cyclingtips.com/2015/02/how-the-race-was-won-womens-world-cyclocross-championships/)]
 85. [Women's Cyclocross Championships](http://cyclocosm.com/2015/02/how-the-race-was-won-womens-cyclocross-world-championships-2015/): [[Vimeo](https://vimeo.com/122676674)] [[CyclingTips (broken)](https://cyclingtips.com/2015/02/how-the-race-was-won-mens-world-cyclocross-championships/)] 
 86. [Omloop Het Nieuwsblad](http://cyclocosm.com/2015/03/how-the-race-was-won-omloop-het-nieuwsblad-2015/): [[YouTube](https://www.youtube.com/watch?v=NcJ5Qq3OhuE)]
-87. [Strade Bianche](http://cyclocosm.com/2015/03/how-the-race-was-won-strade-bianche-2015/): [[Vimeo](https://www.youtube.com/watch?v=NcJ5Qq3OhuE)] [[YouTube](https://www.youtube.com/watch?v=BB8d4R0FiEU)]
+87. [Strade Bianche](http://cyclocosm.com/2015/03/how-the-race-was-won-strade-bianche-2015/): [[Vimeo](https://vimeo.com/121674806)] [[YouTube](https://www.youtube.com/watch?v=BB8d4R0FiEU)]
 88. [Paris-Niece](http://cyclocosm.com/2015/03/how-the-race-was-won-paris-nice-2015/): [[Vimeo](https://vimeo.com/122291734)] [[YouTube](https://www.youtube.com/watch?v=LnccXdhxoSo)]
 89. [Milan-Sanremo](http://cyclocosm.com/2015/03/how-the-race-was-won-milan-sanremo-2015/): [[Vimeo](https://vimeo.com/122954946)] [[YouTube](https://www.youtube.com/watch?v=xhUktS3jUE0)]
 90. [Gent-Wevelgem](http://cyclocosm.com/2015/03/how-the-race-was-won-gent-wevelgem-2015/): [[YouTube](https://www.youtube.com/watch?v=KvBXtVc29c8)]
