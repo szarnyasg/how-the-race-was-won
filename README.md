@@ -50,7 +50,7 @@ Links to Cosmo Catalano's "How The Race Was Won" video series.
 
 16. [Omloop Het Nieuwsblad](http://cyclocosm.com/2010/02/how-the-race-was-won-omloop-het-niewsblad-2010/): [[Vimeo](https://vimeo.com/9813829)] [[YouTube](https://www.youtube.com/watch?v=uWr8jRnX24M)]
 17. [Paris-Roubaix](http://cyclocosm.com/2010/04/how-the-race-was-won-paris-roubaix-2010/): [[Vimeo](https://vimeo.com/10879895)] [[YouTube](https://www.youtube.com/watch?v=2-1v5muNUIo)]
-18. [Amstel Gold](http://cyclocosm.com/2010/04/how-the-race-was-won-amstel-gold-2010/): [[Vimeo](https://vimeo.com/11036188)] [[YouTube](https://www.youtube.com/watch?v=i3rWBvlRLZM)]
+18. [Amstel Gold](http://cyclocosm.com/2010/04/how-the-race-was-won-amstel-gold-2010/): [[Vimeo](https://vimeo.com/11036188)] [[YouTube](https://www.youtube.com/watch?v=kDIPnZLfWbE)]
 19. [Liège-Bastogne-Liège](http://cyclocosm.com/2010/04/how-the-race-was-won-liege-bastogne-liege-2010/): [[Vimeo](https://vimeo.com/11286958)] [[YouTube](https://www.youtube.com/watch?v=i3rWBvlRLZM)]
 20. [Criterium du Dauphine](http://cyclocosm.com/2010/06/how-the-race-was-won-criterium-du-dauphine-2010/): [[Vimeo](https://vimeo.com/12615866)] [[YouTube](https://www.youtube.com/watch?v=iydGp7gj5o8)]
 21. [Tour de France, Stage 11](http://cyclocosm.com/2010/07/how-the-race-was-won-2010-tour-de-france-stage-11/): [[Vimeo](https://vimeo.com/13390556)] [[YouTube](https://www.youtube.com/watch?v=VXrLIJ3H_FA)]
