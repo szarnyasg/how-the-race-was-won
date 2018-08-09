@@ -8,6 +8,7 @@ Links to Cosmo Catalano's "How The Race Was Won" video series.
 * [Vimeo videos](https://vimeo.com/cyclocosm)
 * [YouTube HTRWW playlist](https://www.youtube.com/playlist?list=PLryl7KYZ5kA5jj98uW-PfJ-luChsADt6D)
 * [YouTube "Special Features" playlist](https://www.youtube.com/playlist?list=PLryl7KYZ5kA6pOqLmKy4Gb3baD3tjRgG_)
+* [YouTube Behind the Barriers HTRWW](https://www.youtube.com/playlist?list=PLryl7KYZ5kA6yCm58w_NgmSKTHinYugTs) _(outside official episode enumeration)_
 * [YouTube "The Week in Bike" playlist](https://www.youtube.com/playlist?list=PLryl7KYZ5kA4oX-M4KHW0VqtaztJNjXOG) _(all 64 videos available)_
 
 ## Special features
@@ -95,6 +96,22 @@ No episodes.
 50. [Giro di Lombardia](http://cyclocosm.com/2013/10/how-the-race-was-won-giro-di-lombardia-2013/): [[Vimeo](https://vimeo.com/76512447)] [[YouTube](https://www.youtube.com/watch?v=L6iFq-yaQ9E)]
 51. [Paris-Tours](http://cyclocosm.com/2013/10/how-the-race-was-won-paris-tours-2013/): [[Vimeo](https://vimeo.com/76923293)] [[YouTube](https://www.youtube.com/watch?v=d-UMLtBWfuc)]
 
+### 2013 Behind the Barriers
+* [Rapha Starcrossed C2](https://cyclocosm.com/2013/09/how-the-race-was-won-x-btb-tv-rapha-starcrossed-cx-2013/): [[YouTube](https://www.youtube.com/watch?v=76eYGXtOeNA)]
+* [Trek Cyclocross Collective Cup C2](https://cyclocosm.com/2013/09/how-the-race-was-won-x-btb-tv-trek-cyclocross-collective-cup-2013/): [[YouTube](https://www.youtube.com/watch?v=FrWeGVfwKo4)]
+* [NEPCX Gran Prix of Gloucester C2](https://cyclocosm.com/2013/10/how-the-race-was-won-gran-prix-of-gloucester/): [[YouTube](https://www.youtube.com/watch?v=yYFZp9zTEuk)]
+* [Providence Cyclocross Festival C1](https://cyclocosm.com/2013/10/how-the-race-was-won-x-btb-tv-providence-cyclocross-festival/): [[YouTube](https://www.youtube.com/watch?v=u2KuQDTtXNU)]
+* [Boulder Cup C2](https://cyclocosm.com/2013/10/how-the-race-was-won-x-btb-tv-boulder-cup/): [[YouTube](https://youtu.be/loLGlf6o8R4)]
+* [Colorado Cross Classic C2](https://cyclocosm.com/2013/10/how-the-race-was-won-colorado-cross-classic/): [[YouTube](https://youtu.be/MiTHicgQ8nU)]
+* [Clif Bar Cross Vegas C1](https://cyclocosm.com/2013/10/how-the-race-was-won-x-btb-tv-cross-vegas/): [[YouTube](https://www.youtube.com/watch?v=36NNAOtJhiU)]
+* [Cincy3 Harbin International C2](https://cyclocosm.com/2013/11/how-the-race-was-won-x-btb-tv-cincy3-harbin-international/): [[YouTube](https://www.youtube.com/watch?v=_MXGYKLGy64)]
+* [The MudFund Derby City Cup C2](https://cyclocosm.com/2013/11/how-the-race-was-won-derby-city-cup/): [[YouTube](https://www.youtube.com/watch?v=uSl299QGgWs)]
+* [The Jingle Cross Rock: Rock 2 C2](https://cyclocosm.com/2013/11/how-the-race-was-won-x-btb-jingle-cross-rock/): [[YouTube](https://www.youtube.com/watch?v=5dX4fquirdk)]
+* [The Jingle Cross Rock: Rock 3 C1](https://cyclocosm.com/2013/11/how-the-race-was-won-x-btb-jingle-cross-rock-rock-3/): [[YouTube](https://www.youtube.com/watch?v=HBuMSa4FxdA)]
+* [The Jingle Cross Rock: Rock 1 C2 Women](https://cyclocosm.com/2013/12/how-the-race-was-won-x-btb-jingle-cross-rock-rock-1/): [[YouTube](https://www.youtube.com/watch?v=XiV9Ryo3UB4)]
+* [Deschutes Brewery Cup C1](https://cyclocosm.com/2013/12/how-the-race-was-won-x-btb-deschutes-brewery-cup/): [[YouTube](https://www.youtube.com/watch?v=nIXG2tTcCyM)]
+* [Deschutes Brewery Cup C1 Women](https://cyclocosm.com/2013/12/how-the-race-was-won-x-btb-tv-deschutes-brewery-cup-women/): [[YouTube](https://www.youtube.com/watch?v=ZQxtJliLF0g)]
+
 ## 2014
 
 52. [Santos Tour Down Under](http://cyclocosm.com/2014/01/how-the-race-was-won-santos-tour-down-under-2014/): [[Vimeo](https://vimeo.com/85131433)] [[YouTube](https://www.youtube.com/watch?v=yYqAR26_iCA)]
@@ -129,6 +146,12 @@ No episodes.
 81. [Tour of Beijing](http://cyclocosm.com/2014/10/how-the-race-was-won-tour-of-beijing-2014/): [[Vimeo](https://vimeo.com/122676669)]
 82. [Koppenbergcross](http://cyclocosm.com/2014/11/how-the-race-was-won-koppenbergcross-2014/): [[Vimeo](https://vimeo.com/122676670)]
 
+### 2014 Behind the Barriers
+* [ClifBar CrossVegas C1 Women](https://cyclocosm.com/2014/09/how-the-race-was-won-x-btb-tv-cross-vegas-women-2014/): [[YouTube](https://www.youtube.com/watch?v=IJACH8Ln0Lc)]
+* [ClifBar CrossVegas C1](https://cyclocosm.com/2014/09/how-the-race-was-won-x-btb-tv-cross-vegas-men-2014/): [[YouTube](https://www.youtube.com/watch?v=CghTN-lhCx4)]
+* [Providence Cyclo-Cross Festival C1 Women](https://cyclocosm.com/2014/10/kmc-cyclocross-festival-1-elite-women-htrww-x-btb/): [[YouTube](https://www.youtube.com/watch?v=KRJeLllIzIo)]
+* [Providence Cyclo-Cross Festival C1](https://cyclocosm.com/2014/10/kmc-cyclocross-festival-1-elite-men-htrww-x-btb/): [[YouTube](https://www.youtube.com/watch?v=nl_xg5ww37g)]
+
 ## 2015
 
 83. [Tour Down Under](http://cyclocosm.com/2015/01/how-the-race-was-won-tour-down-under-2015/): [[YouTube](https://www.youtube.com/watch?v=Dc-wgoI9H9Y)]
@@ -161,15 +184,15 @@ No episodes.
 
 ## 2017
 
-107. [Milan-Sanremo](http://cyclocosm.com/2017/03/how-the-race-was-won-milan-sanremo-2017/) _(only available on cyclocosm.com)_
+107. [Milan-Sanremo](http://cyclocosm.com/2017/03/how-the-race-was-won-milan-sanremo-2017/): [[Vimeo](https://vimeo.com/260514792)]
 108. [Giro d'Italia, Stages 1-4](http://cyclocosm.com/2017/05/how-the-race-was-won-giro-ditalia-2017-stages-1-4/): [[Vimeo](https://vimeo.com/270929322)]
 109. [Giro d'Italia, Stages 5-9](http://cyclocosm.com/2017/05/how-the-race-was-won-giro-ditalia-2017-stages-5-9/): [[Vimeo](https://vimeo.com/270929093)]
 110. [Giro d'Italia, Stages 10-15](http://cyclocosm.com/2017/05/how-the-race-was-won-giro-ditalia-2017-stages-10-15/): [[Vimeo](https://vimeo.com/270927563)]
 111. [Giro d'Italia, Stages 16-21](http://cyclocosm.com/2017/05/how-the-race-was-won-giro-ditalia-2017-stages-16-21/): [[Vimeo](https://vimeo.com/219438597)]
-112. [2016 Tour de France Recap / 2017 Tour de France Preview](http://cyclocosm.com/2017/06/how-the-race-was-won-2016-tour-de-france-recap-2017-tour-de-france-preview/): **video is missing**
-113. [Tour de France, Stages 1-9](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-1-9/): [[Eurosport](https://video.eurosport.com/cycling/how-the-race-was-won-thrills-and-spills-on-stages-1-_vid990123/video.shtml)]
-114. [Tour de France, Stages 10-15](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-10-15/): [[Eurosport](https://video.eurosport.com/cycling/tour-de-france/2017/how-the-race-was-won-stages-10-15_vid991520/video.shtml)]
-115. [Tour de France, Stages 16-21](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-16-21/): [[Eurosport](https://video.eurosport.com/cycling/chris-froome-s-tour-how-the-race-was-won_vid993125/video.shtml)]
+112. [2016 Tour de France Recap / 2017 Tour de France Preview](http://cyclocosm.com/2017/06/how-the-race-was-won-2016-tour-de-france-recap-2017-tour-de-france-preview/): [[Vimeo](https://vimeo.com/223728194)
+113. [Tour de France, Stages 1-9](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-1-9/): [[Eurosport](https://video.eurosport.com/cycling/how-the-race-was-won-thrills-and-spills-on-stages-1-_vid990123/video.shtml)] [[Vimeo](https://vimeo.com/224888615)]
+114. [Tour de France, Stages 10-15](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-10-15/): [[Eurosport](https://video.eurosport.com/cycling/tour-de-france/2017/how-the-race-was-won-stages-10-15_vid991520/video.shtml)] [[Vimeo](https://vimeo.com/225795701)]
+115. [Tour de France, Stages 16-21](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-16-21/): [[Eurosport](https://video.eurosport.com/cycling/chris-froome-s-tour-how-the-race-was-won_vid993125/video.shtml)] [[Vimeo](https://vimeo.com/226685442)]
 116. [UCI World Championships - Women’s Road Race](http://cyclocosm.com/2017/09/how-the-race-was-won-uci-world-championships-womens-road-race-2017/): [[Vimeo](https://vimeo.com/235204009)]
 117. [UCI World Championships - Men’s Road Race](http://cyclocosm.com/2017/09/how-the-race-was-won-uci-world-championships-mens-road-race-2017/): [[Vimeo](https://vimeo.com/235293114)]
 
@@ -187,4 +210,4 @@ No episodes.
 127. [Tour de France, Stage 12](http://cyclocosm.com/2018/07/how-the-race-was-won-tour-de-france-2018-stage-12/): [[Eurosport](https://video.eurosport.com/cycling/tour-de-france/2018/how-the-race-was-won-cause-of-vincenzo-nibali-crash-revealed-as-geraint-thomas-wins-on-alpe-dhuez_vid1108983/video.shtml)] [[YouTube](https://www.youtube.com/watch?v=Ttc2_4tOucg)]
 128. [Tour de France, Stage 17](http://cyclocosm.com/2018/07/how-the-race-was-won-tour-de-france-2018-stage-17/): [[Eurosport](https://video.eurosport.com/cycling/tour-de-france/2018/how-the-race-was-won-geraint-thomas-takes-total-control-plus-worst-roundabout-decision-ever_vid1110472/video.shtml)] [[YouTube](https://www.youtube.com/watch?v=q74j-6Vj1Dw)]
 129. [Tour de France, Stage 19](http://cyclocosm.com/2018/07/how-the-race-was-won-tour-de-france-2018-stage-19/): [[Eurosport](https://video.eurosport.com/cycling/tour-de-france/2018/how-the-race-was-won-infallible-thomas-closes-on-maiden-tour-win-after-rampant-roglic-wins-stage-19_vid1111173/video.shtml)] [[YouTube](https://www.youtube.com/watch?v=ybv36MGH9dY)]
-130. [Tour de France, Full Race](http://cyclocosm.com/2018/07/how-the-race-was-won-tour-de-france-2018-full-race/): [[Eurosport](https://video.eurosport.com/cycling/tour-de-france/2018/how-the-race-was-won-geraint-thomas-unlikely-triumph-in-dramatic-2018-tour-de-france_vid1111770/video.shtml)] [[YouTube](https://www.youtube.com/watch?v=eED9DLctyEY)]
+130. [Tour de France, Full Race](http://cyclocosm.com/2018/07/how-the-race-was-won-tour-de-france-2018-full-race/): [[Eurosport](https://video.eurosport.com/cycling/tour-de-france/2018/how-the-race-was-won-geraint-thomas-unlikely-triumph-in-dramatic-2018-tour-de-france_vid1111770/video.shtml)] [[YouTube](https://www.youtube.com/watch?v=eED9DLctyEY)]]
