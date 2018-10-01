@@ -193,12 +193,12 @@ No episodes.
 113. [Tour de France, Stages 1-9](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-1-9/): [[Eurosport](https://video.eurosport.com/cycling/how-the-race-was-won-thrills-and-spills-on-stages-1-_vid990123/video.shtml)] [[Vimeo](https://vimeo.com/224888615)]
 114. [Tour de France, Stages 10-15](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-10-15/): [[Eurosport](https://video.eurosport.com/cycling/tour-de-france/2017/how-the-race-was-won-stages-10-15_vid991520/video.shtml)] [[Vimeo](https://vimeo.com/225795701)]
 115. [Tour de France, Stages 16-21](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-16-21/): [[Eurosport](https://video.eurosport.com/cycling/chris-froome-s-tour-how-the-race-was-won_vid993125/video.shtml)] [[Vimeo](https://vimeo.com/226685442)]
-116. [UCI World Championships - Women’s Road Race](http://cyclocosm.com/2017/09/how-the-race-was-won-uci-world-championships-womens-road-race-2017/): [[Vimeo](https://vimeo.com/235204009)]
-117. [UCI World Championships - Men’s Road Race](http://cyclocosm.com/2017/09/how-the-race-was-won-uci-world-championships-mens-road-race-2017/): [[Vimeo](https://vimeo.com/235293114)]
+116. [UCI World Championships - Women's Road Race](http://cyclocosm.com/2017/09/how-the-race-was-won-uci-world-championships-womens-road-race-2017/): [[Vimeo](https://vimeo.com/235204009)]
+117. [UCI World Championships - Men's Road Race](http://cyclocosm.com/2017/09/how-the-race-was-won-uci-world-championships-mens-road-race-2017/): [[Vimeo](https://vimeo.com/235293114)]
 
 ## 2018
 
-118. [2018 Women’s XC Ski Team Sprint](https://vimeo.com/257323813) _(special issue)_
+118. [2018 Women's XC Ski Team Sprint](https://vimeo.com/257323813) _(special issue)_
 119. [Milan-Sanremo](http://cyclocosm.com/2018/03/how-the-race-was-won-milan-sanremo-2018/): [[Eurosport](https://video.eurosport.co.uk/cycling/milano-sanremo/2018/how-the-race-was-won-milano-sanremo-2018_vid1075780/video.shtml)] [[YouTube](https://www.youtube.com/watch?v=cwfIeLN8VYE)]
 120. [Tour of Flanders](http://cyclocosm.com/2018/04/how-the-race-was-won-tour-of-flanders-2018/): [[Eurosport](https://video.eurosport.co.uk/cycling/how-the-race-was-won-tour-of-flanders-2018_vid1078535/video.shtml)] [[YouTube](https://www.youtube.com/watch?v=glpO1xLyxBY)]
 121. [Paris-Roubaix](http://cyclocosm.com/2018/04/how-the-race-was-won-paris-roubaix-2018/): [[Eurosport](https://video.eurosport.com/cycling/paris-roubaix/2018/how-the-race-was-won-sagan-conquers-paris-roubaix_vid1080329/video.shtml)] [[YouTube](https://www.youtube.com/watch?v=FoViKmFrfoA)]
@@ -214,3 +214,5 @@ No episodes.
 131. [Vuelta a España, Stage 9](https://cyclocosm.com/2018/09/how-the-race-was-won-vuelta-a-espana-2018-stage-9/): [[Eurosport](https://video.eurosport.com/cycling/vuelta-a-espana/2018/how-the-race-was-won-king-reigns-on-la-covatilla_vid1120402/video.shtml)]
 132. [Vuelta a España, Stage 15](https://cyclocosm.com/2018/09/how-the-race-was-won-vuelta-a-espana-2018-stage-15/): [[Eurosport](https://video.eurosport.com/cycling/vuelta-a-espana/2018/how-the-race-was-won-quintana-angers-yates-as-pinot-rules-on-lagos-de-covadonga_vid1122990/video.shtml)]
 133. [Vuelta a España, Stage 20](https://cyclocosm.com/2018/09/how-the-race-was-won-vuelta-a-espana-2018-stage-20/): [[Eurosport](https://video.eurosport.com/cycling/vuelta-a-espana/2018/how-the-race-was-won-simon-yates-storms-to-glory-on-stage-20-as-mas-makes-mark_vid1124335/video.shtml)]
+134. [UCI World Championships Women's Road Race 2018](https://cyclocosm.com/2018/09/how-the-race-was-won-uci-world-championships-womens-road-race-2018/) [[Eurosport](https://video.eurosport.com/cycling/world-championships/2018/how-the-race-was-won-anna-van-der-breggen-powers-to-road-race-glory_vid1127376/video.shtml)]
+135. [UCI World Championships Men's Road Race 2018]() [[Eurosport](https://video.eurosport.com/cycling/how-the-race-was-won-alejandro-valverde-makes-history-in-austrian-epic_vid1127769/video.shtml)]
