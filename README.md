@@ -217,3 +217,8 @@ No episodes.
 134. [UCI World Championships Women's Road Race 2018](https://cyclocosm.com/2018/09/how-the-race-was-won-uci-world-championships-womens-road-race-2018/) [[Eurosport](https://video.eurosport.com/cycling/world-championships/2018/how-the-race-was-won-anna-van-der-breggen-powers-to-road-race-glory_vid1127376/video.shtml)]
 135. [UCI World Championships Men's Road Race 2018](https://cyclocosm.com/2018/10/how-the-race-was-won-uci-world-championships-mens-road-race-2018/) [[Eurosport](https://video.eurosport.com/cycling/how-the-race-was-won-alejandro-valverde-makes-history-in-austrian-epic_vid1127769/video.shtml)]
 135. [Giro di Lombardia](https://cyclocosm.com/2018/10/how-the-race-was-won-il-lombardia-2018/) [[Eurosport](https://video.eurosport.com/cycling/il-lombardia/2018/how-the-race-was-won-thibaut-pinot-breaks-vincenzo-nibali-at-lombardia_vid1130465/video.shtml)]
+
+## 2019
+
+136. [Strade Bianche](https://cyclocosm.com/2019/03/how-the-race-was-won-strade-bianche-2019/): [[Eurosport](https://video.eurosport.co.uk/cycling/cycling-video-how-the-race-was-won-julian-alaphilippe-conquers-strade-bianche_vid1173030/video.shtml)] [[YouTube](https://www.youtube.com/watch?v=IILw0XsxymI)]
+137. [Milan-Sanremo](https://cyclocosm.com/2019/03/how-the-race-was-won-milan-sanremo-2019/): [[Eurosport](https://video.eurosport.co.uk/cycling/milano-sanremo/2019/how-the-race-was-won-julian-alaphilippe-keeps-his-wits-to-win-in-italy_vid1178432/video.shtml)] [[YouTube](https://www.youtube.com/watch?v=F1VlK-D4w5c)]
