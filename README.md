@@ -189,7 +189,7 @@ No episodes.
 109. [Giro d'Italia, Stages 5-9](http://cyclocosm.com/2017/05/how-the-race-was-won-giro-ditalia-2017-stages-5-9/): [[Vimeo](https://vimeo.com/270929093)]
 110. [Giro d'Italia, Stages 10-15](http://cyclocosm.com/2017/05/how-the-race-was-won-giro-ditalia-2017-stages-10-15/): [[Vimeo](https://vimeo.com/270927563)]
 111. [Giro d'Italia, Stages 16-21](http://cyclocosm.com/2017/05/how-the-race-was-won-giro-ditalia-2017-stages-16-21/): [[Vimeo](https://vimeo.com/219438597)]
-112. [2016 Tour de France Recap / 2017 Tour de France Preview](http://cyclocosm.com/2017/06/how-the-race-was-won-2016-tour-de-france-recap-2017-tour-de-france-preview/): [[Vimeo](https://vimeo.com/223728194)
+112. [2016 Tour de France Recap / 2017 Tour de France Preview](http://cyclocosm.com/2017/06/how-the-race-was-won-2016-tour-de-france-recap-2017-tour-de-france-preview/): [[Vimeo](https://vimeo.com/223728194)]
 113. [Tour de France, Stages 1-9](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-1-9/): [[Eurosport](https://video.eurosport.com/cycling/how-the-race-was-won-thrills-and-spills-on-stages-1-_vid990123/video.shtml)] [[Vimeo](https://vimeo.com/224888615)]
 114. [Tour de France, Stages 10-15](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-10-15/): [[Eurosport](https://video.eurosport.com/cycling/tour-de-france/2017/how-the-race-was-won-stages-10-15_vid991520/video.shtml)] [[Vimeo](https://vimeo.com/225795701)]
 115. [Tour de France, Stages 16-21](http://cyclocosm.com/2017/07/how-the-race-was-won-2017-tour-de-france-stages-16-21/): [[Eurosport](https://video.eurosport.com/cycling/chris-froome-s-tour-how-the-race-was-won_vid993125/video.shtml)] [[Vimeo](https://vimeo.com/226685442)]
