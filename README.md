@@ -242,3 +242,8 @@ No episodes.
 148. [Milan-Sanremo](https://howtheracewaswon.com/2021/milan-sanremo): [[YouTube](https://www.youtube.com/watch?v=fO96iObvWgs)]
 149. [Tour of Flanders](https://howtheracewaswon.com/2021/tour-of-flanders): [[YouTube](https://www.youtube.com/watch?v=mlHzhrWQu9U)]
 150. [Liège-Bastogne-Liège](https://howtheracewaswon.com/2021/liege-bastogne-liege)
+
+## 2022
+
+* [Paris–Roubaix Femmes](https://www.youtube.com/watch?v=0kVrniuO7fw)
+* [Paris–Roubaix](https://www.youtube.com/watch?v=Xv6NE4Fb9Uo)
