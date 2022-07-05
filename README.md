@@ -247,3 +247,4 @@ No episodes.
 
 * [Paris–Roubaix Femmes](https://www.youtube.com/watch?v=0kVrniuO7fw)
 * [Paris–Roubaix](https://www.youtube.com/watch?v=Xv6NE4Fb9Uo)
+* [Tour de France, stages 1–3]: [[YouTube](https://www.youtube.com/watch?v=fqKdcPAvR90)]
