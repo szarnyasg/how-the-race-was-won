@@ -1,6 +1,6 @@
 # How The Race Was Won
 
-Links to Cosmo Catalano's "How The Race Was Won" video series, a commentary series on professional bike racing events. Starting from 2020, this list has been superseded by the website https://howtheracewaswon.com/.
+Links to Cosmo Catalano's "How The Race Was Won" video series, a commentary series on professional bike racing events.
 
 ## Playlists
 
