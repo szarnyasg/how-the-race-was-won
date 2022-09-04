@@ -245,10 +245,10 @@ No episodes.
 
 ## 2022
 
-151. [Paris–Roubaix Femmes](https://howtheracewaswon.com/2022/paris-roubaix-women): [[YouTube](https://www.youtube.com/watch?v=0kVrniuO7fw)]
-152. [Paris–Roubaix](https://howtheracewaswon.com/2022/paris-roubaix-men): [[YouTube](https://www.youtube.com/watch?v=Xv6NE4Fb9Uo)]
-153. [Liège-Bastogne-Liège](https://howtheracewaswon.com/2022/liege-bastogne-liege-men): [[YouTube](https://www.youtube.com/watch?v=f1GZYOlNobM)]
-154. [Liège-Bastogne-Liège Femmes](https://howtheracewaswon.com/2022/liege-bastogne-liege-women): [[YouTube](https://www.youtube.com/watch?v=9zKwZ0FjSHo)]
+151. [Paris–Roubaix Women's](https://howtheracewaswon.com/2022/paris-roubaix-women): [[YouTube](https://www.youtube.com/watch?v=0kVrniuO7fw)]
+152. [Paris–Roubaix Men's](https://howtheracewaswon.com/2022/paris-roubaix-men): [[YouTube](https://www.youtube.com/watch?v=Xv6NE4Fb9Uo)]
+153. [Liège-Bastogne-Liège Men's](https://howtheracewaswon.com/2022/liege-bastogne-liege-men): [[YouTube](https://www.youtube.com/watch?v=f1GZYOlNobM)]
+154. [Liège-Bastogne-Liège Women's](https://howtheracewaswon.com/2022/liege-bastogne-liege-women): [[YouTube](https://www.youtube.com/watch?v=9zKwZ0FjSHo)]
 155. [Criterium du Dauphine](https://howtheracewaswon.com/2022/criterium-du-dauphine): [[YouTube](https://www.youtube.com/watch?v=UNojZpI6xy0)]
 156. [Tour de France, stages 1–3](https://howtheracewaswon.com/2022/tour-de-france/stages-1-3): [[YouTube](https://www.youtube.com/watch?v=fqKdcPAvR90)]
 157. [Tour de France, stages 4–9](https://howtheracewaswon.com/2022/tour-de-france/stages-4-9): [[YouTube](https://www.youtube.com/watch?v=_DRjfhCwGFY)]
