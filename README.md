@@ -245,6 +245,9 @@ No episodes.
 
 ## 2022
 
+* [SWAGWATCH: Biniam Girmay at Gent-Wevelgem](https://www.youtube.com/watch?v=lBuBrQn8I0U)
+* [How The Race Was Wupdate - April 2022](https://www.youtube.com/watch?v=QccSWDAZEoo)
+
 151. [Paris–Roubaix Women's](https://howtheracewaswon.com/2022/paris-roubaix-women): [[YouTube](https://www.youtube.com/watch?v=0kVrniuO7fw)]
 152. [Paris–Roubaix Men's](https://howtheracewaswon.com/2022/paris-roubaix-men): [[YouTube](https://www.youtube.com/watch?v=Xv6NE4Fb9Uo)]
 153. [Liège-Bastogne-Liège Men's](https://howtheracewaswon.com/2022/liege-bastogne-liege-men): [[YouTube](https://www.youtube.com/watch?v=f1GZYOlNobM)]
