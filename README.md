@@ -8,7 +8,7 @@ Links to Cosmo Catalano's "How The Race Was Won" video series, a commentary seri
 * [Vimeo videos](https://vimeo.com/cyclocosm)
 * [YouTube HTRWW playlist](https://www.youtube.com/playlist?list=PLryl7KYZ5kA5jj98uW-PfJ-luChsADt6D)
 * [YouTube "Special Features" playlist](https://www.youtube.com/playlist?list=PLryl7KYZ5kA6pOqLmKy4Gb3baD3tjRgG_)
-* [YouTube Behind the Barriers HTRWW](https://www.youtube.com/playlist?list=PLryl7KYZ5kA6yCm58w_NgmSKTHinYugTs) _(outside official episode enumeration)_
+* [YouTube Behind the Barriers HTRWW](https://www.youtube.com/playlist?list=PLryl7KYZ5kA6yCm58w_NgmSKTHinYugTs) _(outside of the official episode enumeration)_
 * [YouTube "The Week in Bike" playlist](https://www.youtube.com/playlist?list=PLryl7KYZ5kA4oX-M4KHW0VqtaztJNjXOG) _(all 64 videos available)_
 
 ## Special features
